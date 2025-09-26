@@ -1,0 +1,11 @@
+section: ontap
+title: Use software updates 
+entries:
+  - title: Compare ONTAP versions to understand the benefits and risks of the update
+    url: /ONTAP/choose-ontap-910-later.html
+  - title: Fix ONTAP blocker and acknowledge warnings
+    url: /ONTAP/fix-blockers-warnings.html
+  - title: Initiate ONTAP storage system update
+    url: /ONTAP/update-storage-system.html
+  - title: Validate the status of ONTAP storage system update
+    url: /ONTAP/validate-storage-system-update.html

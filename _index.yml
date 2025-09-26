@@ -1,14 +1,39 @@
 indexpage:
-  title: # Unquoted string 
-  lead: # Quoted string
-  summary: # Quoted string 
-  keywords: # Unquoted comma-delimited list of keywords 
+  title: Software updates documentation
+  lead: Software updates enables customers to streamline ONTAP updates. It automates the assessment, planning, and execution processes.
+  keywords: software updates, update ONTAP, upgrade ONTAP, ONTAP version, ONTAP 9.8
   tiles: 
-    # Tile definition 
-    - title: # Quoted or unquoted string
+    # Tile definition   
+    - title: Get started
       links: 
-        # Link definition
-        - title: # Quoted or unquoted string
-          url: # Path to target
-        # Next link on this tile (title/url pair)
-    # Next tile on this page (title/links)
+      - title: Learn about software updates
+        url: /get-started/software-updates.html
+      - title: What's new in software updates
+        url: /release-notes/whats-new.html
+      - title: Quick start
+        url: /get-started/quick-start-ontap-update.html
+      - title: Prerequisites
+        url: /get-started/prerequisites-ontap-update.html
+      - title: Log in to software updates
+        url: /get-started/login-software-updates.html
+      - title: FAQ
+        url: /get-started/software-updates-faq.html
+    - title: Use software updates
+      links:
+      - title: Choose ONTAP target version 9.10 or later
+        url: /ONTAP/choose-ontap-910-later.html 
+      - title: Fix and acknowledge ONTAP blockers
+        url: /ONTAP/fix-blockers-warnings.html
+      - title: Complete ONTAP storage system update
+        url: /ONTAP/update-storage-system.html
+      - title: Validate the status of ONTAP storage system update
+        url: /ONTAP/validate-storage-system-update.html
+    - title: Blogs & community
+      links:
+        - title: NetApp Console
+          url: https://www.netapp.com/console
+        - title: NetApp Data Services
+          url: https://www.netapp.com/data-services/
+        - title: NetApp Community
+          url: https://community.netapp.com/ 
+    

@@ -1,0 +1,4 @@
+=== ONTAP update
+The BlueXP software updates service provides a seamless update experience to users by mitigating risks, and ensuring customers can fully leverage ONTAP features.
+
+Learn more about link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html[BlueXP software updates].
