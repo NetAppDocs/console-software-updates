@@ -1,0 +1,51 @@
+---
+sidebar: sidebar
+permalink: ONTAP/choose-ontap-910-later.html
+keywords: choose ontap target version, ontap update recommendations, identify ontap target version, recommended version, benefits and risks or ONTAP version
+summary: Understand the benefits and risks of the each ONTAP version before upgrading your ONTAP storage system.
+---
+= Compare ONTAP versions to understand the benefits and risks of using software updates
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+
+It is very important to compare and understand the benefits and risks associated with the ONTAP target version before updating the ONTAP version for the storage system. 
+
+You can choose the target version and compare it with the current version to understand the benefits of updating to the specific version on ONTAP. You can also see the risks that will be resolved and the new risks (if any) that will arise on updating to the specific version of ONTAP.
+
+NOTE: You can use this feature only if you are running ONTAP 9.10 or later versions.
+
+.Steps
+
+. From the Console left navigation, select *Health* > *Software updates*.
++
+The list of cluster that require an software update is displayed. You can either update to the recommended target version or choose another version.
+
+|===
+| If you... | Do this... 
+
+a|
+Want to update to the recommended version
+a|
+. In the *Target version* column, click *Compare versions* to view the feature benefits and risks benefits of updating to the recommended ONTAP version.
+. Select and view information about the risks that will be resolved, risk that will continue to remain, and the new risks that will be introduced after the update.
+. Optionally, click *Download update plan* to download the a copy of the update plan.
+. Click *Start update* to initiate the update process.
+
+a|
+Want to choose another version
+a|
+. In the *Target version* column, click the drop-down and select *Choose other versions*. 
+. Select the version to view the feature benefits and risks benefits.
+. Select and view information about the risks that will be resolved, risk that will continue to remain, and the new risks that will be introduced after the update.
+. Optionally, click *Download update plan* to download the a copy of the update plan.
+. Select *Start update* to initiate the update process.
+|===
+
+
+
+
+
+
+

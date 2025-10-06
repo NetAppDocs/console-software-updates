@@ -1,1 +1,1 @@
-# new-repo-template
+# console-software-updates

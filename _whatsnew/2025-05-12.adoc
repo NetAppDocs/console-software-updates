@@ -1,0 +1,2 @@
+=== BlueXP access role needed
+You now need one of the following access roles to install software updates: *Organization admin*, *Folder or project admin*, *Storage admin*, *Storage viewer*, or *Storage health specialist*. Users with the Storage viewer role have various permissions related to software updates, but cannot  install software updates. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.^]
