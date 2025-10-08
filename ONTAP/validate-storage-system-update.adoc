@@ -1,0 +1,20 @@
+---
+sidebar: sidebar
+permalink: ONTAP/validate-storage-system-update.html
+keywords: validate status of ontap update, track status of ontap update
+summary: Validate the status of your ONTAP update to decide the next steps that should be performed.
+---
+= Validate the status of ONTAP storage system update
+:icons: font    
+:imagesdir: ../media/
+
+[.lead]
+You can use software updates to validate the status of the ONTAP update.
+
+.Steps
+
+. From the Console left navigation, select *Health* > *Software updates*.
+. Click the *History* tab to view the status of the ONTAP update.
+
+NOTE: It takes 2 to 3 hours for the cluster to reflect in the history tab.
+

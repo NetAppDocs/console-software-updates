@@ -1,0 +1,2 @@
+=== Mitigated risks
+In the summary section of BlueXP software updates, you can now view the total number of risks that can be mitigated by the operating system update. This allows users to assess the security and stability improvements on their installation base.

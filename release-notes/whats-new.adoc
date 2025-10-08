@@ -1,0 +1,33 @@
+---
+sidebar: sidebar
+permalink: release-notes/whats-new.html
+keywords: software updates, ontap update, what's new, enhancements
+summary: Understand about the new features and enhancements introduced in software updates.
+---
+= What’s new in software updates
+:icons: font
+:imagesdir: ../media/
+
+[.lead]
+Learn what’s new in software updates.
+
+// tag::whats-new[]
+
+== 06 October 2025
+
+include::../_whatsnew/2025-10-06.adoc[]
+
+== 12 May 2025
+
+include::../_whatsnew/2025-05-12.adoc[]
+
+== 02 April 2025
+
+include::../_whatsnew/2025-04-02.adoc[]
+
+// end::whats-new[]
+
+== 07 August 2024
+
+include::../_whatsnew/2024-08-07.adoc[]
+

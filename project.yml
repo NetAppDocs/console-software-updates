@@ -1,12 +1,20 @@
 settings:
-  name: "Product Name"
+  name: Software updates
   internal:
     pdf_enabled: true
   prod:
     pdf_enabled: true
-    harmony_enabled: true
-
+    harmony_enabled: true  
 sidebar: 
   entries:
+  - title: Software updates docs
+    url: /index.html
+  - section: release-notes
+  - section: get-started
+  - section: ontap
+  - section: support
   - title: Legal notices
     url: /legal-notices.html
+product-family:
+  name: Netapp Console
+  repo: console-family
