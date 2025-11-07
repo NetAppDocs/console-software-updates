@@ -11,8 +11,6 @@ summary: Understand about the new features and enhancements introduced in softwa
 [.lead]
 Learn what’s new in software updates.
 
-// tag::whats-new[]
-
 == 06 October 2025
 
 include::../_whatsnew/2025-10-06.adoc[]
@@ -24,8 +22,6 @@ include::../_whatsnew/2025-05-12.adoc[]
 == 02 April 2025
 
 include::../_whatsnew/2025-04-02.adoc[]
-
-// end::whats-new[]
 
 == 07 August 2024
 
