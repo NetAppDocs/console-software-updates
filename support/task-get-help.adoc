@@ -11,4 +11,4 @@ summary: NetApp provides support for NetApp Console in a variety of ways. Extens
 
 [.lead]
 
-include::https://raw.githubusercontent.com/NetAppDocs/bluexp-family/main/_include/get-help.adoc[]
+include::https://raw.githubusercontent.com/NetAppDocs/console-family/main/_include/get-help.adoc[]
