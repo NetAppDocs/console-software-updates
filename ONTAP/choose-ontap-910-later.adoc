@@ -14,7 +14,7 @@ It is very important to compare and understand the benefits and risks associated
 
 You can choose the target version and compare it with the current version to understand the benefits of updating to the specific version on ONTAP. You can also see the risks that will be resolved and the new risks (if any) that will arise on updating to the specific version of ONTAP.
 
-NOTE: You can use this feature only if you are running ONTAP 9.10 or later versions.
+NOTE: You can use this feature only if you are running ONTAP 9.10.1 or later versions.
 
 .Steps
 
