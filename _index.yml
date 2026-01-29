@@ -20,7 +20,7 @@ indexpage:
         url: /get-started/software-updates-faq.html
     - title: Use software updates
       links:
-      - title: Choose ONTAP target version 9.10 or later
+      - title: Choose ONTAP target version 9.10.1 or later
         url: /ONTAP/choose-ontap-910-later.html 
       - title: Fix and acknowledge ONTAP blockers
         url: /ONTAP/fix-blockers-warnings.html

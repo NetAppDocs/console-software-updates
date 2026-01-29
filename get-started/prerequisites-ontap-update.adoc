@@ -20,5 +20,5 @@ To use software updates, you should ensure that your system meets all requiremen
 * A system is set up in the Console.
 * Administrator credentials are available for the desired cluster while performing software update.
 * All the nodes in the cluster are sending AutoSupport data.
-* All nodes should be running on ONTAP 9.10 or later versions.
+* All nodes should be running on ONTAP 9.10.1 or later versions.
 * Nodes should not be in a MetroCluster configuration.
