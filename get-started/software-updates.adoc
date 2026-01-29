@@ -38,8 +38,9 @@ The following information provides the software update process for different ONT
 |9.10.1 to 9.12.1  | Preparation for ONTAP update happens within the software updates screens. You will be navigated to System Manager to perform the actual ONTAP update. To execute all steps of ONTAP update within the Console, you need to link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-install-connector-on-prem.html[set up a Console agent].  
 |9.8 to 9.10.1  | Preparation for ONTAP update happens within the software updates screens. You will be navigated to System Manager to perform the actual ONTAP update. 
 
-
 |===
+
+NOTE: Software Updates is not supported with Cloud Volumes ONTAP.
 
 == Benefits of using software updates
 Updating your ONTAP storage system can help you improve the performance, security, and functionality of your storage system.
