@@ -54,4 +54,4 @@ Some of the benefits of updating your ONTAP storage system are:
 * You can benefit from the ongoing support and maintenance that NetApp provides for the latest ONTAP OS versions. 
 
 == Cost
-Software updates are available with an active support contract
+Software updates are available with an active support contract.
