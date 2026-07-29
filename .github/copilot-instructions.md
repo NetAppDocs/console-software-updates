@@ -29,7 +29,6 @@ Product: Software updates
 
 **Naming conventions and terminology:**
 - Use *NetApp Console* as the platform name and *software updates* as the service name.
-- Older repository content can still contain *BlueXP* or *BlueXP software updates* references; the release notes state these names were renamed to *NetApp Console* and *software updates*.
 - Use *ONTAP*, *cluster*, *node*, *System Manager*, *Console agent*, *AutoSupport*, *blockers*, *warnings*, *History* tab, and *Target version* with their product-specific meanings from the UI and workflows in this repo.
 - Access roles referenced in the repository include *Organization admin*, *Folder or project admin*, *Storage admin*, *Storage viewer*, and *System health specialist*.
 
