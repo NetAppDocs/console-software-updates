@@ -18,10 +18,10 @@ After you have identified the ONTAP target version, fixed and acknowledged all t
 The list of clusters that require an software update is displayed. 
 . Identify the ONTAP target version for your storage system. 
 +
-For information about identifying the ONTAP target version, see link:../ONTAP/choose-ontap-910-later.html[Compare ONTAP versions to understand the benefits and risks of using software updates].
+For information about identifying the ONTAP target version, see link:../ONTAP/choose-ontap-910-later.html[Compare ONTAP versions with software updates].
 . Fix and acknowledge the ONTAP blockers. 
 +
-For information about fixing blockers, see link:../ONTAP/fix-blockers-warnings.html[Fix all blockers using software updates before an ONTAP upgrade].
+For information about fixing blockers, see link:../ONTAP/fix-blockers-warnings.html[Fix ONTAP blockers and warnings using software updates].
 . Read and accept the End user license agreement.
 +
 Wait for the ONTAP image to be retrieved.

@@ -4,7 +4,7 @@ permalink: get-started/software-updates-faq.html
 keywords: ontap update faq, ontap update frequently asked questions, software updates faq, software updates frequently asked questions, troubleshooting
 summary: View the answers to the frequently asked questions about software updates.
 ---
-= Frequently asked questions for software updates
+= FAQ for software updates
 :icons: font
 :imagesdir: ../media/
 
