@@ -4,7 +4,7 @@ permalink: ONTAP/update-storage-system.html
 keywords: update ontap storage system
 summary: Update your ONTAP storage system to take advantage of the new and enhanced features.
 ---
-= Initiate the ONTAP update using software updates
+= Initiate the ONTAP update in software updates
 :icons: font    
 :imagesdir: ../media/
 
