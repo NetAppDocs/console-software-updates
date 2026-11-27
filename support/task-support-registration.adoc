@@ -7,7 +7,7 @@ summary: Before you can open a support case with NetApp technical support, you n
 
 = Register for support in NetApp Console
 :icons: font
-:imagesdir: ../media/
+:imagesdir: https://docs.netapp.com/us-en/console-family/media/
 
 [.lead]
 
